@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aidin
 - 👀 I’m interested in everything programming! I'm currently focused on web development with Next.js, and developing a control center for the Awesome Window Manager, which instead of a polling approach, uses D-Bus to achieve more efficient event handling and emission.
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on FOSS projects, especially developing websites with beautiful UIs for them.
+- 💞️ I’m looking to collaborate on FOSS projects, especially developing websites for them, with beautiful UIs.
